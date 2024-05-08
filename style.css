@@ -1,0 +1,23 @@
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.user-info {
+    margin-top: 20px;
+}
+
+input[type="text"], button {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#repositories {
+    list-style-type: none;
+    padding: 0;
+}
+
+.repository {
+    margin-bottom: 10px;
+}
